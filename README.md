@@ -3,7 +3,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Cihan</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+<h3 align="center">10 yıllık satış tecrübesiyle profesyonel hayatını sürdüren bir satış uzmanı ve girişimciyim, müşteri ilişkileri, ve yüksek performanslı satış stratejileri üzerine odaklanıyorum. İşimde verimliliği ve büyümeyi ön planda tutarken, teknolojiyi ve dijital çözümleri etkin bir şekilde kullanmaya özen gösteriyorum.
+
+Satış alanında edindiğim deneyim, etkili iletişim kurma, problem çözme ve ikna kabiliyetimi sürekli geliştirmemi sağladı. Şimdi bu becerilerimi dijital çözümlerle buluşturarak daha geniş bir kitleye ulaşmayı hedefliyorum.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
