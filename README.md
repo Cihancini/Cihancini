@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Merhaba 👋, ben Cihan</h1>
-<h3 align="center">10+ yıllık satış tecrübesiyle profesyonel hayatını sürdüren bir satış uzmanı ve girişimciyim. Şu anda üzerinde yüksek performanslı satış stratejileri üzerine odaklanıyorum. İşimde verimliliği ve büyümeyi ön planda tutarken, teknolojiyi ve dijital çözümleri etkin bir şekilde kullanmaya özen gösteriyorum.
+<h3 align="center">10 yıllık satış tecrübesiyle profesyonel hayatını sürdüren bir satış uzmanı ve girişimciyim. Şu anda üzerinde yüksek performanslı satış stratejileri üzerine odaklanıyorum. İşimde verimliliği ve büyümeyi ön planda tutarken, teknolojiyi ve dijital çözümleri etkin bir şekilde kullanmaya özen gösteriyorum.
 
 Satış alanında edindiğim deneyim, etkili iletişim kurma, problem çözme ve ikna kabiliyetimi sürekli geliştirmemi sağladı. Şimdi bu becerilerimi dijital çözümlerle buluşturarak daha geniş bir kitleye ulaşmayı hedefliyorum.
 
